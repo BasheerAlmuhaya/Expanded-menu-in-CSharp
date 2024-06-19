@@ -1,0 +1,24 @@
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\Expanded menu\Expanded menu\Expanded menu\bin\Debug\Expanded menu.exe.config
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\Expanded menu\Expanded menu\Expanded menu\bin\Debug\Expanded menu.exe
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\Expanded menu\Expanded menu\Expanded menu\bin\Debug\Expanded menu.pdb
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.csprojResolveAssemblyReference.cache
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded_menu.Form1.resources
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded_menu.Properties.Resources.resources
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.csproj.GenerateResource.Cache
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.exe
+E:\التفاعل بين الانسان والحاسوب\IUD applications_lap\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.pdb
+H:\Expanded menu\Expanded menu\Expanded menu\bin\Debug\Expanded menu.exe.config
+H:\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.exe
+H:\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.pdb
+G:\Expanded menu\Expanded menu\Expanded menu\bin\Debug\Expanded menu.exe.config
+G:\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.exe
+G:\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.pdb
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\Expanded menu\Expanded menu\Expanded menu\bin\Debug\Expanded menu.exe.config
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.exe
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.pdb
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\Expanded menu\Expanded menu\Expanded menu\bin\Debug\Expanded menu.exe
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\Expanded menu\Expanded menu\Expanded menu\bin\Debug\Expanded menu.pdb
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded_menu.Form1.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded_menu.Properties.Resources.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\Expanded menu\Expanded menu\Expanded menu\obj\Debug\Expanded menu.csproj.GenerateResource.Cache
